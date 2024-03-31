@@ -54,7 +54,7 @@ Follow these steps to set up the deployment pipeline for your Node.js REST API o
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HGSChandeepa/nodejs-rest-api-EC2
+   git clone https://github.com/Bcoderx6/NodeJS-Rest-API
    ```
 
 2. Customize the Node.js application code in the `server.js` file according to your requirements.
